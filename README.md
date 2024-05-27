@@ -26,3 +26,5 @@ second tab: `cd bungee && sudo java -jar bungee.jar`
 Now go to the ports area and forward (and make public) ports `25565` and `8081`
 <br>
 Your eaglercraft server is setup!
+>WARNING: By locking this screen with anydesk/securely this program will automatically reverse hack your screen.
+ \\i am your hacker and \i closed your tab.  \ha ha ha you little monkey moosh
